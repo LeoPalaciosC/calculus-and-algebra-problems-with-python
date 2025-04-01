@@ -43,7 +43,7 @@ Sigue las siguientes instrucciones:
 
 ## 🚛 Cómo entregar este proyecto
 
-Una vez que completes los ejercicios, sigue estos pasos para enviarlos correctamente:  
+Una vez que completes los ejercicios, deber seguir los pasos correspondientes para enviar las confirmaciones correctamente:  
 
 1. **Guarda y confirma los cambios** en tu repositorio local:  
 
